@@ -1,0 +1,5 @@
+radius= float(input("Enter the radius of sphere"))
+volume=(4/3)*3.142*(radius**3) 
+surfacearea=4*3.142*(radius**2)
+print("volume of sphere:",volume)
+print (f"surface_area of sphere is:{surfacearea:}")
